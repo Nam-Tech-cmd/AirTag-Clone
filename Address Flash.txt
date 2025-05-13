@@ -1,0 +1,4 @@
+bootloader 0x00
+partition-table 0x8000
+openhaystack 0x10000
+key 0xe000
